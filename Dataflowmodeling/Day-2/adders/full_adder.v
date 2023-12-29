@@ -1,3 +1,6 @@
+// The full adder is a digital component that performs three numbers an implemented using the logic gates.
+// Full adders are used in ALUs of CPU of computers are used in calculators.
+
 module full_adder(a,b,c,sum,carry);
   input a,b,c;
   //output sum,carry;
